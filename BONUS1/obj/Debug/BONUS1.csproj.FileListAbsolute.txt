@@ -1,0 +1,6 @@
+C:\Users\Richie\source\repos\BONUS1\BONUS1\bin\Debug\BONUS1.exe.config
+C:\Users\Richie\source\repos\BONUS1\BONUS1\bin\Debug\BONUS1.exe
+C:\Users\Richie\source\repos\BONUS1\BONUS1\bin\Debug\BONUS1.pdb
+C:\Users\Richie\source\repos\BONUS1\BONUS1\obj\Debug\BONUS1.csproj.CoreCompileInputs.cache
+C:\Users\Richie\source\repos\BONUS1\BONUS1\obj\Debug\BONUS1.exe
+C:\Users\Richie\source\repos\BONUS1\BONUS1\obj\Debug\BONUS1.pdb
